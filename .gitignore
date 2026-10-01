@@ -1,0 +1,19 @@
+# Large raw datasets
+ratings_Electronics (1).csv
+amazon.csv
+user_activity_summary.csv
+
+# Archives
+programs.zip
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code local settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

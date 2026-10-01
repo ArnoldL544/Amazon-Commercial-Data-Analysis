@@ -1,0 +1,10 @@
+main_category,product_count,average_price,median_price,price_std,minimum_price,q1_price,q3_price,maximum_price
+Toys&Games,1,150.0,150.0,,150.0,150.0,150.0,150.0
+OfficeProducts,31,301.58,178.0,317.29,50.0,117.0,380.5,1399.0
+HomeImprovement,2,337.0,337.0,124.45,249.0,293.0,381.0,425.0
+Computers&Accessories,365,639.26,398.0,666.15,39.0,249.0,789.0,4449.0
+MusicalInstruments,2,638.0,638.0,226.27,478.0,558.0,718.0,798.0
+Electronics,347,993.89,649.0,863.37,79.0,320.0,1499.0,4499.0
+Health&PersonalCare,1,899.0,899.0,,899.0,899.0,899.0,899.0
+Home&Kitchen,386,1321.49,1050.5,987.84,79.0,517.25,1886.5,4280.0
+Car&Motorbike,1,2339.0,2339.0,,2339.0,2339.0,2339.0,2339.0
